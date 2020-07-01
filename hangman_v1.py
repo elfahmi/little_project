@@ -52,7 +52,7 @@ def animated_hang_man():
     """
     animations_7 = """
         |-----|--
-        |     O
+        |     O  ====> Last Chance You Idiot
         |    /|\  
         |     |
         |    / 
